@@ -11,7 +11,7 @@ Screenshot
 
 Screenshot
 <p>
-  <img src="weather_task_bloc/assets/images/screenshot1" width="150",height="200" />
-  <img src="assets/images/screenshot1" width="150",height="200" />
+  <img src="weather_task_bloc/assets/images/screenshot1.png" width="150",height="200" />
+  <img src="assets/images/screenshot2.png" width="150",height="200" />
 </p>
 
