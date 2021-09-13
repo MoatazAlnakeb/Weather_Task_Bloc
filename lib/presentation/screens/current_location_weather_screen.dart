@@ -116,7 +116,7 @@ Widget myListViewWidget(){
                         Row(
                           mainAxisAlignment: MainAxisAlignment.spaceAround,
                           children: [
-                            Text("Date: ${DateFormat('  EEE d MMM').format(allDayAndHourList[index][index].dtTxt)}",style: TextStyle(fontSize: 16),),
+                            Text("Date: ${DateFormat('  EEE d MMM').format(allDayAndHourList[index][allDayAndHourList[index].length-1].dtTxt)}",style: TextStyle(fontSize: 16),),
                             Text("Description: ${allDayAndHourList[index][allDayAndHourList[index].length-1].weather[0].description}",style: TextStyle(fontSize: 16),),
 
                           ],
